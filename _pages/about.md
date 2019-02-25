@@ -10,8 +10,7 @@ redirect_from:
 
 # <span style="font-family:Courier New">Welcome to Artificial Minds by Naseem Alsadi</span>
 
-<p align="center">
 
-![](/images/brain.gif)
-      
+<p align="center">
+  <img width="460" height="300" src="/images/brain.gif">
 </p>
