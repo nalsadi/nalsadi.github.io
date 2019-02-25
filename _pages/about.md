@@ -9,5 +9,5 @@ redirect_from:
 ---
 ## SENet ECG Dysrythmia Classifier
 
-![SENet ECG Dysrythmia Classifier](/_publications/Deep_Learning_ECG_Dysrythmia_Classifier.png)
+![SENet ECG Dysrythmia Classifier](https://github.com/nalsadi/nalsadi.github.io/blob/master/_publications/Deep_Learning_ECG_Dysrythmia_Classifier.png)
 
