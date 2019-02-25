@@ -1,0 +1,1 @@
+Throughout the significantly rapid developing history of Artifical Intelligence, embedded human essence remained at the core of cornerstone technology. The inclsuion of the Artifical Neural Network attempted to mimic the decision process of the human mind, ergo, giving binary machines the power of human-like thinking. 
