@@ -12,5 +12,5 @@ redirect_from:
 
 
 <p align="center">
-  <img width="460" height="300" src="/images/brain.gif">
+  <img src="/images/brain.gif">
 </p>
