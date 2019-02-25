@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Neuro Fuzzy Logic Midterm Notes
 categories: [Notes]
 tags: L
