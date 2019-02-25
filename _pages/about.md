@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Artificial Minds by Naseem Alsadi
+# <span style="font-family:Courier New">Welcome to Artificial Minds by Naseem Alsadi</span>
 ![](https://github.com/nalsadi/DeepQ/blob/master/assets/brain.gif)
 
 
