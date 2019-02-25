@@ -13,6 +13,5 @@ redirect_from:
 
 ![Brain](https://github.com/nalsadi/DeepQ/blob/master/assets/brain.gif)
 
-
-        
+![My helpful screenshot](/images/QLearningAlgoBlock.png)
       
