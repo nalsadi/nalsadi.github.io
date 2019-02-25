@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 ## SENet ECG Dysrythmia Classifier
+
+![Model View Controller](_publications/Deep_Learning_ECG_Dysrythmia_Classifier.pdf)
