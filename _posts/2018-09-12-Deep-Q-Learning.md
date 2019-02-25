@@ -10,4 +10,4 @@ tags: DL
  
 ## Deep Q Learning Algorithm 
 
-![My helpful screenshot](/img/QLearningAlgoBlock.png)
+![My helpful screenshot](/images/QLearningAlgoBlock.png)
