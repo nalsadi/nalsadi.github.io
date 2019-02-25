@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Artificial Minda"
+title                    : "Artificial Minds"
 title_separator          : "-"
 name                     : &name "Naseem Alsadi"
 description              : &description "Artificial Intelligence | Computer Architecture & Design"
