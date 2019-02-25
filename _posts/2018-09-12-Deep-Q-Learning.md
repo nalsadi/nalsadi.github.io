@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Deep Q
 categories: [Notes]
 tags: DL
-
 ---
 
 - Discount factor allows for rewards in the future to be slightly minimized.    
