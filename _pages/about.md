@@ -11,7 +11,5 @@ redirect_from:
 # <span style="font-family:Courier New">Welcome to Artificial Minds by Naseem Alsadi</span>
 
 
-![Brain](https://github.com/nalsadi/DeepQ/blob/master/assets/brain.gif)
-
-![My helpful screenshot](/images/QLearningAlgoBlock.png)
+![](/images/brain.gif)
       
