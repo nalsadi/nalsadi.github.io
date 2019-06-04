@@ -181,7 +181,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Essays:
     output: true
     permalink: /:collection/:path/
 
@@ -236,9 +236,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: Essays
     values:
-      layout: talk
+      layout: Essays
       author_profile: true
       share: true
 
