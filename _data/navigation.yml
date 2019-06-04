@@ -2,7 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Essays & Articles"
+    url: /Essays/
   #- title: "Talks"
  #   url: /talks/    
 #
@@ -11,9 +13,7 @@ main:
     
   #- title: "Portfolio"
    # url: /portfolio/
-   
- - title: "Essays & Articles"
-    url: /Essays/
+  
     
   - title: "Field Notes"
     url: /categories/
