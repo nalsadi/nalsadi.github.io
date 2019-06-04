@@ -11,7 +11,10 @@ main:
     
   #- title: "Portfolio"
    # url: /portfolio/
-        
+   
+ - title: "Essays & Articles"
+    url: /E&A/
+    
   - title: "Field Notes"
     url: /categories/
     
