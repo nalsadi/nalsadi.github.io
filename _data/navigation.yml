@@ -14,12 +14,13 @@ main:
   #- title: "Portfolio"
    # url: /portfolio/
   
+  - title: "Thoughts On"
+    url: /thoughts/
     
   - title: "Field Notes"
     url: /categories/
     
-  - title: "Test"
-    url: /test/
+  
     
   #- title: "Guide"
    # url: /markdown/
