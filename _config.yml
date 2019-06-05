@@ -184,6 +184,9 @@ collections:
   Essays:
     output: true
     permalink: /:collection/:path/
+  test:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -241,7 +244,15 @@ defaults:
       layout: Essays
       author_profile: true
       share: true
-
+  # test
+  - scope:
+      path: ""
+      type: test
+    values:
+      layout: test
+      author_profile: true
+      share: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
