@@ -184,7 +184,7 @@ collections:
   Essays:
     output: true
     permalink: /:collection/:path/
-  philosophy:
+  thoughts:
     output: true
     permalink: /:collection/:path/
 
@@ -247,9 +247,9 @@ defaults:
   # test
   - scope:
       path: ""
-      type: philosophy
+      type: thoughts
     values:
-      layout: philosophy
+      layout: thoughts
       author_profile: true
       share: true
       
