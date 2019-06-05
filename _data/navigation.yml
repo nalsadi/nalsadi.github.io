@@ -18,8 +18,8 @@ main:
   - title: "Field Notes"
     url: /categories/
     
-  #- title: "CV"
-    #url: /cv/
+  - title: "Test"
+    url: /test/
     
   #- title: "Guide"
    # url: /markdown/
