@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Artificial Minds"
 title_separator          : "-"
 name                     : &name "Naseem Alsadi"
-description              : &description "Artificial"
+description              : &description "Artificial Intelligence | Computer Architecture & Design | Philosophy | Literature"
 url                      : https://nalsadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nalsadi/nalsadi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Naseem Alsadi"
   avatar           : "25228687.jpeg"
-  bio              : "Artificial Intelligence | Computer Architecture & Design"
+  bio              : "Artificial Intelligence | Computer Architecture & Design Intelligence | Computer Architecture & Design | Philosophy | Literature"
   location         : "Toronto, ON, CA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
