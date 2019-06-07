@@ -5,4 +5,11 @@ permalink: /education/
 author_profile: true
 ---
 
-Hello
+## Formal Education
+* University of Guelph 
+  * Bachelor of Engineering B.ENG
+  * Field of Computer Engineering
+  
+## Specializations & Certifications
+* Stanford Machine Learning  
+  
