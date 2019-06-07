@@ -22,5 +22,5 @@ main:
     
   
     
-  #- title: "Guide"
-   # url: /markdown/
+  - title: "Education"
+    url: /Education/
