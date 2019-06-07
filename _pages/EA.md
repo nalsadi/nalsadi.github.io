@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Essays & Articles"
-permalink: /EA/
+title: "Education"
+permalink: /Education/
 author_profile: true
 ---
 
