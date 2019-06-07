@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Formal Education
-* University of Guelph 
+* University of Guelph ~ Ontario, Canada
   * Bachelor of Engineering B.ENG
   * Field of Computer Engineering
   
