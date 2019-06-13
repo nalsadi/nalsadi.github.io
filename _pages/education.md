@@ -12,4 +12,5 @@ author_profile: true
   
 ## Specializations & Certifications
 * Stanford Machine Learning  
+* Introduction to Philosophy
   
