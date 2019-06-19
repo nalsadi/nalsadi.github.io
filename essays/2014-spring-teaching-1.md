@@ -2,7 +2,7 @@
 title: "Teaching experience 8"
 collection: Essays
 type: "Undergraduate course"
-permalink: /essays/2014-spring-teaching-1
+permalink: /essays/2014-spring-teaching-8
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
