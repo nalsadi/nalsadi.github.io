@@ -1,5 +1,5 @@
 ---
-title: "Infintiy ~ The Quest to Think the Unthinkable - Brian Clegg"
+title: "Infinity ~ The Quest to Think the Unthinkable - Brian Clegg"
 collection: Essays
 type: "Non-Fiction Book"
 permalink: /essays/2019-Infinity-Brian-Clegg
