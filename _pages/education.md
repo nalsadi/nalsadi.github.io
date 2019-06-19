@@ -11,5 +11,6 @@ author_profile: true
   * Field of Computer Engineering
   
 ## Specializations & Certifications
-* Stanford Machine Learning  
+* Stanford University - Machine Learning  
+* The University of Edinburgh - Introduction to Philosophy
   
