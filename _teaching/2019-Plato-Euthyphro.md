@@ -3,7 +3,7 @@ title: "Euthyphro - Plato"
 collection: Essays
 type: "Philosophy"
 permalink: /essays/2019-Euthyphro-Plato
-<!--venue: "University 1, Department"—>
+venue: "University 1, Department"
 date: 2019-07-19
 location: "City, Country"
 ---
