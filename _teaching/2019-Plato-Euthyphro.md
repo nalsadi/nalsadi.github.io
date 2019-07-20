@@ -32,4 +32,3 @@ location: "City, Country"
 - Soc; Holiness is not science of requests and donations; instead that which pleases the gods; or that is agreeable 
 - Soc finishes the discussion with saying that we have come full circle; the original answer was is that is holy is what is agreeable to the gods and ended with the same conclusion.  
 
-Nj-->
