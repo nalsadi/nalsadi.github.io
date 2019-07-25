@@ -3,7 +3,7 @@ title: "Postmodernism - Philosophize This!"
 collection: Essays
 type: "Philosophy"
 permalink: /essays/2019-postmodernism
-venue: "Philosophyt"
+venue: "Philosophy"
 date: 2019-07-19
 location: "City, Country"
 ---
