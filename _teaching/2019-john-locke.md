@@ -3,7 +3,7 @@ title: "John Locke - Philosophize This!"
 collection: Essays
 type: "Philosophy"
 permalink: /essays/2019-john-locke
-venue: "University 1, Department"
+venue: "Philosophy"
 date: 2019-07-19
 location: "City, Country"
 ---
