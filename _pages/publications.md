@@ -5,15 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="display: flex; justify-content: center;">
 
-| Metric       | All | Since 2019 |
-|--------------|-----|------------|
-| **Citations**| 104 | 104        |
-| **h-index**  | 6   | 6          |
-| **i10-index**| 4   | 4          |
+## Metrics 
 
-</div>
+* **Citations:** *104*  
+
+* **h-index:** *6* 
+
+* **i10-index:** *4*
+
+## Publications
 
 - Ammar, Ali, Naseem Alsadi, Jonathan D. Adachi, S. Andrew Gadsden, and Cheryl E. Quenneville. **"A CNN-based strategy to automate contour detection of the hip and proximal femur using DXA hip images from longitudinal databases (CLSA and CaMos)."** *Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization*, vol. 11, no. 7, Taylor & Francis, 2024, pp. 2296626.
 
