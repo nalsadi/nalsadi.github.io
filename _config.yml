@@ -273,13 +273,21 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  source: ./_bibliography
+  bibliography: publications.bib
 # mimic GitHub Pages with --safe
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
 
 
 # Archives
