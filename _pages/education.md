@@ -18,7 +18,6 @@ Naseem Alsadi received his bachelor's degree in Computer Engineering from the Un
 - **Faculty of Engineering - McMaster University**
   - Doctor of Philosophy (PhD) in Mechanical Engineering with applications in Artificial Intelligence, 2022
 - **University of Guelph**
-  - Doctor of Philosophy (PhD) in Engineering - Artificial Intelligence, 2020
   - Bachelor of Engineering (B.Eng) in Honours Computer Engineering, 2015 - June 2020
 - **Udacity**
   - Nanodegree in Cloud Developer
