@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Naseem Alsadi"
   avatar           : "IMG-20191021-WA0009.jpg"
-  bio              : "Artificial Intelligence | Computer Architecture & Design | Philosophy | Literature"
+  bio              : "Artificial Intelligence | Computer Architecture & Design | Blockchain"
   location         : "Toronto, ON, CA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.ca/citations?user=Gs9gaBkAAAAJ&hl=en"
+  email            : "alsadin@mcmaster.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AlsadiNaseem"
   vine             :
   weibo            :
   xing             :
