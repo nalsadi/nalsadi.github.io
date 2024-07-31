@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# <span style="font-family:Courier New">Welcome to Artificial Minds by Naseem Alsadi</span>
 
 
 <p align="center">
