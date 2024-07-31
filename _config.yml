@@ -277,7 +277,7 @@ plugins:
 
 scholar:
   style: apa
-  source: ./_bibliography
+  source: ./_publications
   bibliography: publications.bib
 # mimic GitHub Pages with --safe
 
