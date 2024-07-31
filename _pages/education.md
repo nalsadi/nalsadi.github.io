@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Education"
-permalink: /education/
+title: "About Me"
+permalink: /aboutme/
 author_profile: true
 ---
 
-# About Me
-
 ## Contact
-- **Email:** nalsadi01@gmail.com
+- **Email:** alsadin@mcmaster.ca
 - **LinkedIn:** [Naseem Alsadi](https://www.linkedin.com/in/naseemalsadi)
 
 ## Summary
