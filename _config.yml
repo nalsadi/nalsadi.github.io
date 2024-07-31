@@ -273,12 +273,12 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-scholar
+ # - jekyll-scholar
 
-scholar:
-  style: apa
-  source: ./_publications
-  bibliography: publications.bib
+#scholar:
+#  style: apa
+#  source: ./_publications
+#  bibliography: publications.bib
 # mimic GitHub Pages with --safe
 
 whitelist:
