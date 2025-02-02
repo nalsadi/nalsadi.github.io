@@ -8,11 +8,11 @@ author_profile: true
 
 ## Metrics 
 
-* **Citations:** *110*  
+* **Citations:** *128*  
 
 * **h-index:** *6* 
 
-* **i10-index:** *4*
+* **i10-index:** *5*
 
 ## Publications
 
